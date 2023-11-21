@@ -41,9 +41,16 @@
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-simple</artifactId>
 			<version>2.0.9</version>
-			<scope>test</scope>
 		</dependency>
 
+
+		<!-- https://mvnrepository.com/artifact/io.github.sukgu/automation -->
+		<!-- Only for Shadow Element -->
+		<dependency>
+			<groupId>io.github.sukgu</groupId>
+			<artifactId>automation</artifactId>
+			<version>0.1.4.1</version>
+		</dependency>
 
 	</dependencies>
 
